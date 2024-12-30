@@ -1,6 +1,6 @@
-# Professional Email Signature Template
+# Professional Email Signature 
 
-**Copy my Email-signature teplate.**
+**Copy my Email-signature template.**
 
 A clean, modern, and professional HTML email signature template that helps create a lasting impression in your business communications.
 
@@ -8,10 +8,8 @@ A clean, modern, and professional HTML email signature template that helps creat
 
 This email signature template provides a professional way to:
 - Display your contact information
-- Showcase your professional role and organization
 - Include your social media links
 - Add a professional photo
-- Maintain consistent branding across all email communications
 
 ## Why Use an Email Signature?
 
