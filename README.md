@@ -37,8 +37,8 @@ This email signature template provides a professional way to:
 
 3. Social Media Links:
 
-i. Update the social media links (LinkedIn, Twitter,     GitHub) with your profiles
-ii. Replace https://linkedin.com with your LinkedIn URL
+i. Update the social media links (LinkedIn, Twitter, GitHub) with your profiles<br>
+ii. Replace https://linkedin.com with your LinkedIn URL<br>
 iii. Update other social media URLs similarly
 
 2. Profile Pictures:
