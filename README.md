@@ -43,5 +43,5 @@ iii. Update other social media URLs similarly
 
 2. Profile Pictures:
 
-i. Add your profile picture URL in the img src="" tag
+i. Add your profile picture URL in the img src="" tag<br>
 ii. Recommended image size: 100x100 pixels
